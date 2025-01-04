@@ -8,7 +8,6 @@
   - [Collaborators](#collaborators)
 
 ## 🔍 Description <a name="description"></a>
-<p> This is an online banking system that is our intake on the finance challenge project. </p>
 
 ## 📃 Documentation <a name="docs"></a>
 ### Documentation
@@ -18,7 +17,6 @@
 ## 🖥️ Technologies used <a name="technologies"></a>
 ### IDE & version control system:
 
-<img src="https://cdn.discordapp.com/attachments/1175485686258880592/1303079368817639574/Visual_Studio_Code_1.35_icon.svg.png?ex=672a72bb&is=6729213b&hm=7146c73929954a5dc300dc29a1755bc76874f662bbdca939bd89c8548048daa2&" alt="Visual-Studio logo" width=48px>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual-Studio logo" width=48px>
 
 ### Programming languages & third-party libraries:
