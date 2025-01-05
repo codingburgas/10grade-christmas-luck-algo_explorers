@@ -6,3 +6,12 @@
 
 using namespace std;
 
+void searchBookByName(string name) {
+    for (const auto& book : books) {
+        if (book.name == name) {
+            displayBookDetails(book);
+            return;
+        }
+    }
+    cout << "Book not found." << endl;
+}
