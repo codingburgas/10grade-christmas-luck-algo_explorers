@@ -7,3 +7,13 @@
 using namespace std;
 
 
+void returnBook(int num) {
+    int number = findBookNumberByIdNum(num);
+    if (number != -1 && books[number].isIssued) {
+        books[number].isIssued = false;
+        cout << "Book returned." << endl;
+    }
+    else {
+        cout << "Book is either not found or wasn't issued." << endl;
+    }
+}
