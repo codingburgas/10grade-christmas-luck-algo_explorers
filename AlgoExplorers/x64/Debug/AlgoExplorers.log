@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2001: unresolved external symbol "class std::vector<struct Book,class std::allocator<struct Book> > books" (?books@@3V?$vector@UBook@@V?$allocator@UBook@@@std@@@std@@A)
+C:\Users\Yo\source\repos\10grade-christmas-luck-algo_explorers\x64\Debug\AlgoExplorers.exe : fatal error LNK1120: 1 unresolved externals
