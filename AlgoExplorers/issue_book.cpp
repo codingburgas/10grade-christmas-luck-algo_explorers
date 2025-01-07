@@ -1,9 +1,8 @@
-#pragma once
-#include<iostream>
-#include<string>
-#include<algorithm>
-#include<vector>
-
+#include "issue_book.h"
+#include "struct_books.h"
+#include "find_by_number.h"
+#include <iostream>
+#include <vector>
 using namespace std;
 
 void issueBook(int num, string user) {

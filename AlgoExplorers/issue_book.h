@@ -1,18 +1,5 @@
 #pragma once
-#include<iostream>
-#include<string>
-#include<algorithm>
-#include<vector>
-
+#include <string>
 using namespace std;
 
-void issueBook(int num, string user) {
-    int number = findBookNumberByNum(num);
-    if (number != -1 && !books[number].isIssued) {
-        books[number].isIssued = true;
-        cout << "Book issued to " << user << "." << endl;
-    }
-    else {
-        cout << "Book is either not found or already issued." << endl;
-    }
-}
+void issueBook(int num, string user);

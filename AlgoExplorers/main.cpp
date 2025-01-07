@@ -75,7 +75,7 @@ int main() {
         case 7:
             cout << "Enter book number: ";
             cin >> num;
-           deleteBook(num);
+            deleteBook(num);
             break;
         case 8:
             cout << "Exiting system." << endl;

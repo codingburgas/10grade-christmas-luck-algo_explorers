@@ -21,9 +21,6 @@
     <ClInclude Include="books_details.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="delete_book.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="find_by_number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -45,9 +42,42 @@
     <ClInclude Include="struct_books.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="delete_book.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="add_book.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="books_details.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="find_by_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="issue_book.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="list_books.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="return_a_book.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="search_by_name.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="search_by_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_books.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="delete_book.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

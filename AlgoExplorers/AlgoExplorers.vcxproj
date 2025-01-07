@@ -31,7 +31,17 @@
     <ClInclude Include="struct_books.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="books_details.cpp" />
+    <ClCompile Include="add_book.cpp" />
+    <ClCompile Include="delete_book.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="find_by_number.cpp" />
+    <ClCompile Include="issue_book.cpp" />
+    <ClCompile Include="list_books.cpp" />
+    <ClCompile Include="return_a_book.cpp" />
+    <ClCompile Include="search_by_name.cpp" />
+    <ClCompile Include="search_by_number.cpp" />
+    <ClCompile Include="struct_books.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

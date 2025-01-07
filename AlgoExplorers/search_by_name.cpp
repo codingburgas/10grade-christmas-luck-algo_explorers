@@ -1,9 +1,8 @@
-#pragma once
-#include<iostream>
-#include<string>
-#include<algorithm>
-#include<vector>
-
+#include "search_by_name.h"
+#include "struct_books.h"
+#include "books_details.h"
+#include <iostream>
+#include <vector>
 using namespace std;
 
 void searchBookByName(string name) {
