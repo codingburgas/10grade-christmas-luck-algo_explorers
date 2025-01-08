@@ -35,5 +35,5 @@
 ## 🧑 Collaborators <a name="collaborators"></a>
 
 <p><a href="https://github.com/RDNikolov22">Rostislav Nikolov</a> - Scrum Trainer</p>
-<p><a href="https://github.com/YTGeorgieva22">Polina Dineva</a> - Back-end Developer</p>
+<p><a href="https://github.com/YTGeorgieva22">Yoana Georgieva</a> - Back-end Developer</p>
 <p><a href="https://github.com/ZSVladkov22">Zarko Vladkov</a> - Front-end Developer</p>
