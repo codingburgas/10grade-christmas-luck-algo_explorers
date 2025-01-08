@@ -1,6 +1,6 @@
 <h1 align="center"> AlgoExplorers <h1>
 
-<div align="center"> <img src="Documents/assets/logo.png" alt="logo with text AlgoExplorers" /> </div>
+<div align="center"> <img src="Documents/logo.png" alt="logo with text AlgoExplorers" /> </div>
 
 ## 📋 Table of contents
   - [Description](#description)
