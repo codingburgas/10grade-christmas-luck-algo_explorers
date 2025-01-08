@@ -2,6 +2,7 @@
 #include<string>
 #include<algorithm>
 #include<vector>
+#include <conio.h>
 #include "add_book.h"
 #include "books_details.h"
 #include "delete_book.h"
@@ -83,6 +84,12 @@ int main() {
         default:
             cout << "Invalid choice. Please try again." << endl;
         }
+
+        cout << endl << endl << "  Press any key to continue...";
+        _getch();
+
+        system("cls");
+        
     } while (choice != 8);
 
     return 0;
